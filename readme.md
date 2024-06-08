@@ -15,7 +15,7 @@ git config --global user.name "USER-NAME of github account"
 git config --global user.email "Your email"  
 ```
 
-If you want to see the configures username and email use given command
+If you want to see the configured username and email use given command
 
 ```bash
 git config --global --list 
@@ -31,10 +31,10 @@ The simplest way of using git and github is go to your github account and just c
 Now copy the link given there and use
 
 ```bash
-git clone copied-url 
+git clone "copied-url" 
 ```
 
-Now you will see the clone of the repository in your local computer you can now make changes in the repo and push it using simple commands and rest of the work git will do by itself😊.
+Now you will see the clone of the repository in your local computer. You can now make changes in the repo and push it using simple commands and rest of the work git will do by itself😊.
 
 
 
